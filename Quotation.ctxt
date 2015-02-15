@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=quotation\ author
+comment0.target=Quotation(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getQuotation()
+comment2.params=
+comment2.target=java.lang.String\ getAuthor()
+numComments=3
